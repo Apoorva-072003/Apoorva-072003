@@ -1,4 +1,4 @@
-# Hey 👋 I'm Apoorva
+# Hey!👋 I'm Apoorva :)
 
 💻 Aspiring Software Developer | 🐍 Python | 🧠 DSA | 🌐 Full-Stack
 

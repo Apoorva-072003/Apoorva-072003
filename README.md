@@ -1,6 +1,6 @@
 # Hey!👋 I'm Apoorva :)
 
-💻 Aspiring Software Developer | 🐍 Python | 🧠 DSA | 🌐 Full-Stack
+💻 Aspiring Software Developer | 🐍 Python | ♨️ Java | 🧠 DSA | 🌐 Full-Stack
 
 🌱 Currently learning **Python, DSA, SQL & Full-Stack Development**
 
